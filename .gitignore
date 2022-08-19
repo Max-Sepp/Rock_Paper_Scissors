@@ -190,5 +190,4 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,python
-rock_paper_scissors_data/
 .vscode/
