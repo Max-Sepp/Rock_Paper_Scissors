@@ -4,4 +4,4 @@ I have built an AI that can determine whether your hand position is either rock,
 
 To build a AI that you could recognise the hand gestures of rock paper scissors. 
 
-### For inforamtion on the dataset read the README within the dataset folder: rock_paper_scissors_data
+### For information on the dataset read the README within the dataset folder: rock_paper_scissors_data
